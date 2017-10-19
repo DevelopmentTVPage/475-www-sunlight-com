@@ -1,0 +1,15 @@
+{
+    "title": "Project 3",
+    "baseURL": "http:\/\/www.sunlight.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1759045",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "sunlight.com"
+    }
+}
